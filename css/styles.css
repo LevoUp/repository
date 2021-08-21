@@ -1,0 +1,25 @@
+
+            body {
+                background-color: rgb(255, 245, 238);
+            }
+
+            hr {    
+              border-style: none;
+              border-top-style: dotted;
+              border-color: rgb(128, 120, 89);
+              border-width: 10px;
+              width: 10%;
+            }
+              
+
+            img {
+                height: 300px;
+            }
+
+            h1 {
+                color: #3e4b04;
+            }
+
+            h3 {
+                color: #4d5c0a;
+            }
